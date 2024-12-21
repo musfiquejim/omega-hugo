@@ -95,10 +95,12 @@ share those images.
 - [All Contributors](https://github.com/gethugothemes/omega-hugo/graphs/contributors)
 
 ## Contributors 
+- Bhakti Vithalani (Founder and CEO)
 - Tflijon
 - Musfique Jim
 - Gespering
-- 
+- Rajesh Ghosh
+- Yin L. Yin
 
 
 ## 👨‍💻Hire Us
