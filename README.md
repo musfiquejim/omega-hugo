@@ -94,6 +94,12 @@ share those images.
 - [Font Awesome Icons](https://fontawesome.com)
 - [All Contributors](https://github.com/gethugothemes/omega-hugo/graphs/contributors)
 
+## Contributors 
+- Tflijon
+- Musfique Jim
+- Gespering
+- 
+
 
 ## 👨‍💻Hire Us
 Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
